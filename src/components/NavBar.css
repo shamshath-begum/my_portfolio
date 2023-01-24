@@ -1,0 +1,7 @@
+#navitem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    text-align: center;
+}
