@@ -1,7 +1,12 @@
-#navitem{
+.navbar {
+    width: 100%;
+    height: 100px;
+    background: #21325e;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: auto;
-    text-align: center;
+    
+}
+.links {
+    text-decoration: none;
+    color: white;
+    padding-right: 50px;
 }
